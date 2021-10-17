@@ -1,0 +1,60 @@
+---
+title: "Assigment - Data Driven Business"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_notebook:
+    toc: yes
+    toc_depth: 2
+---
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAO_3EvD3DY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe>
+
+## What features define a data driven business?
+
+When a company employs a “data-driven” approach, it means it makes strategic decisions based on data analysis and interpretation.
+
+A data-driven approach enables companies to examine and organise their data with the goal of better serving their customers and consumers. By using data to drive its actions, an organisation can contextualise and/or personalise its messaging to its prospects and customers for a more customer-centric approach.
+
+
+## What are the important features of a data culture?
+
+According to a Tableau report on data-driven companies, five key trends that set apart the data-leading organization with the rest of the peers are:
+
+  - Commitment: the main difference between data-leading companies and data-aware organizations are the recognition of the value that data can bring. It can be difficult to take an honest look at the organization's use of data, and many often don't even do that. Data if used right can reveal where you are falling short, what hurdles prevent success, and where there are critical gaps in data skills, knowledge and use. To successfully become data-driven, companies first need to identify how data can be used differently and focus on how it will drive more value for your organization.
+  
+  - Mindset: Data-leading companies are willing to take more risks, more often than not they encourage experimentation, innovation, exploration and even failure with data. Prioritization and commitment from management boards are equally important to ask questions, explore data with curiosity and allow assumptions or intuition to drive hypotheses that can be tested with data.
+  
+  - Talent: Not only analyzing the data, the skills of finding, collecting, preparing, analyzing and communicating with data are all vital to success. Attracting the right talents and develop data literacy of working staff is pivotal to companies' data transformation success.
+  
+  - Trust: The research showed that developing values of trust and accountability within organizations pre-dated the maturation of being data-driven. Trust from leadership, transparent access to governed, accurate data results in greater employee responsibility and accountability for the information used and needed.
+  
+  - Sharing: Rarely can any significant business problem be solved by any one team, nor does one person in an organization get value from data in isolation. It requires people working together to pull data out of applications, preparing the data for analysis recognizing its application to a business problem, engaging with it to find insights, and then having more people accepting and making decisions from those findings. 
+
+## What are the transformation steps towards a mature data driven business?
+
+According Havard Business Review, there are 10 steps to create a data driven culture:
+
+  - Data driven culture starts at the very top
+  - Choose metrics with care and cunning 
+  - Do not pigeon hole your data scientists
+  - Fix basic data-access issues quickly 
+  - Quantifying uncertainty 
+  - Make proofs of concept simple and robust, not fancy and brittle
+  - Specialized training should be offered just in time
+  - Use analytics to help employees, not just customers
+  - Be willing to trade flexibility for consistency — at least in the short term
+  - Get in the habit of explaining analytical choices
+  
+**Reference**
+
+What does it mean to be data-driven? Digital analytics glossary. (2019, December 4). AT Internet. https://www.atinternet.com/en/glossary/data-driven/
+
+Tableau Contributor. (2021, July 30). Tableau BrandVoice: A Data Culture Enabled By The Cloud Accelerates Time-To-Value. Forbes. https://www.forbes.com/sites/tableau/2021/07/30/a-data-culture-enabled-by-the-cloud-accelerates-time-to-value/?sh=24d0d6285ae3
+
+10 Steps to Creating a Data-Driven Culture. (2020, February 6). Harvard Business Review. https://hbr.org/2020/02/10-steps-to-creating-a-data-driven-culture
+
+‌
+
+
+‌

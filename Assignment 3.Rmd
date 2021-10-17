@@ -1,0 +1,35 @@
+---
+title: "Assigment - Data Driven Decision Making"
+author: name author here
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_notebook:
+    toc: yes
+    toc_depth: 2
+---
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9MzwGdXFPbU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  allowfullscreen data-external="1"></iframe>
+
+
+## Why was data driven decision making (3DM) useful in this business case?
+
+Albert Heijn (NL) uses data to create rich, hyper-personalized shopping experiences for their customers. They have been in the business for a long time, hence having a lot of data and knowledge available. By going to the cloud and collaborating with Microsoft Azure, they unlocked opportunities to get value out of their data.
+
+## How did the organization apply 3DM?
+
+They have 10 millions customers every week that shop 24/7 so they need solutions that can serve their customers anywhere and anytime. 
+
+- One solution is called "Predict my list". This solution gathers data from online and offline shopping experiences of individual customers to predict what the customers need next time they do shopping.
+
+- "Tap to go" is an idea being developed: customer with a phone can walk into a store, tap into a product, grab it and just go. This function is developed with the vision of "hyper-personalization", which means the app will suggest the products that fits with the users' daily plan.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IlUrPaWjJmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe>
+
+- Microsoft Azure is implemented in the Ahold Delhaize group worldwide to share algorithm as well as data internally and serve their customers better
+
+## What can the organization do with 3DM that they couldn’t do before?
+
+- Analyzing the availabe data to create insights
+- Create solutions that better customers' experience
+- Collaborating with other branches in a worldwide setting

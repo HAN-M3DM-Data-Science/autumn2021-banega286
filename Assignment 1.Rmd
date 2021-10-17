@@ -1,0 +1,39 @@
+---
+title: "Assigment - Data Problems vs Data Solutions"
+author: name author here
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_notebook:
+    toc: yes
+    toc_depth: 2
+---
+
+
+
+Search Youtube for a suitable business case example on data driven decision making and copy the embed code below.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wytr417RCEs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe>
+
+ 
+ 
+## What was the business problem?
+
+Alzheimer's disease has been and is one of the big problems in healthcare. There are today more than 36 million patients with dementia, costing 1% of global GDP. There has been serial trials failure for the drug of this disease, and there has not been a substantial solution for Alzheimer.
+
+## How was it translated into a data mining problem?
+
+The necessary solutions to tackle Alzheimer are, according to Professor Simon Lovestone:
+
+- Diversify target development - Produce more drugs for larger target groups
+
+- Need to do trial for early treatment of Alzheimer - prodromal or preclinical disease 
+
+- More rapid trials with early read-outs 
+
+  - Big data help with developing the complex model to choose and gather cohorts for drug trials 
+  - Big data and machine learning applied to predict Alzheimer from MCI result - analyzing test results based multiple criteria using complex model. It also helps to gather data in a large scale - from 10-20 people to 10 of thousands of people - to make the model more accurate
+  - Big data also add value for the drug discovery phase, adding volume, variety and complexity to the solution  
+
+## What is the realized business value?
+
+More than 200 million euros are invested in big data application for Alzheimer research. Alzheimer research is deemed as invaluable for the development of healthcare sector, as well as humankind as a whole.  
