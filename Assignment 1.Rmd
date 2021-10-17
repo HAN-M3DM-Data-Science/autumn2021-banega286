@@ -18,7 +18,7 @@ Search Youtube for a suitable business case example on data driven decision maki
  
 ## What was the business problem?
 
-Alzheimer's disease has been and is one of the big problems in healthcare. There are today more than 36 million patients with dementia, costing 1% of global GDP. There has been serial trials failure for the drug of this disease, and there has not been a substantial solution for Alzheimer.
+Alzheimer's disease has been and is one of the big problems in healthcare. There are today more than 36 million patients with dementia, accounting for 1% of global GDP of cost. There has been serial trials failure for the drug of this disease, and there has not been a substantial solution for Alzheimer.
 
 ## How was it translated into a data mining problem?
 
@@ -36,4 +36,4 @@ The necessary solutions to tackle Alzheimer are, according to Professor Simon Lo
 
 ## What is the realized business value?
 
-More than 200 million euros are invested in big data application for Alzheimer research. Alzheimer research is deemed as invaluable for the development of healthcare sector, as well as humankind as a whole.  
+More than 200 million euros are invested in big data application for Alzheimer research. Alzheimer research is deemed as invaluable for the development of healthcare sector, as well as the advancement of humankind.  
